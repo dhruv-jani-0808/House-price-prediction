@@ -62,4 +62,4 @@ This graph shows how close the model's guesses (blue dots) are to the actual tru
 ---
 
 ## 🔜 What's Next?
-Currently, the model ignores columns like `mainroad` and `airconditioning` because they are text ("yes"/"no"). My next step is to learn **Label Encoding** to turn these into numbers and push that R² score even higher! 🚀
+Currently, the model ignores columns like `mainroad` and `airconditioning` because they are text ("yes"/"no"). We can do **Label Encoding** to turn these into numbers and push that R² score even higher! 🚀
